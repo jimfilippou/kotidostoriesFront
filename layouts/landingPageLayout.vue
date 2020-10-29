@@ -35,7 +35,7 @@
 <style lang="scss">
   :root {
     --soft-shadow: 0 0 5px 0 #888;
-    --title-font: 'Zilla Slab', serif;
+    --title-font: 'Zilla Slab', serif, arial;
   }
 
   .ProseMirror {
